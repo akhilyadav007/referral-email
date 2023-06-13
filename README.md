@@ -6,7 +6,8 @@
         ◦ Rails: 7.0.1
         ◦ Ruby: 3.0.1
     • Setup the following scripts inside the ‘bin’ folder of the Rails project
-        ◦ bin/setup script to setup the project on local (including  ‘bundle install’, database setup, ‘yarn/npm install’, etc.)
+        ◦ bin/setup script to setup the project on local (including  ‘bundle install’,
+          database setup, ‘yarn/npm install’, etc.)
         ◦ bin/dev script to run the server (should run both rails & react server)
     • Specifications
         ◦ Use MySQL for database
