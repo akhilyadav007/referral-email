@@ -1,0 +1,2 @@
+class ReferralEmail < ApplicationRecord
+end

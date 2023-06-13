@@ -1,0 +1,7 @@
+
+
+<%= form_with url: send_referral_email_path do |f| %>
+ <%= f.label :email %>  
+ <%= f.email_field :email, autofocus: true, autocomplete: "email" %>
+ <%= f.submit 'Send e-mail' %>
+<% end %>
