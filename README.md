@@ -1,4 +1,4 @@
-**    Task Requirment Document:-**
+**Task Requirment Document:-**
 
     • Create a Rails + React project
     • Integrate the React part within Rails project only
